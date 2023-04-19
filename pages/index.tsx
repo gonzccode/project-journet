@@ -41,8 +41,13 @@ export default function Home() {
           priority
         />
       </div>
-      <div>PROJECT JOURNET</div>
-
+      <div>
+        <h3>
+          <strong>
+            - PROJECT JOURNET -
+          </strong>
+        </h3>
+      </div>
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
